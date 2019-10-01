@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Debasish's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Debasish Ray Mohapatra
+Graduate student, University of British Columbia, Canada
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="debasishray@ece.ubc.ca">isaac@applesdofall.org</a>
+| <a href="https://www.linkedin.com/in/debasish-ray-mohapatra">LinkedIn</a>
+| <a href="https://github.com/Debasishray19">Github</a>
 </div>
 
 
