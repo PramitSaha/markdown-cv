@@ -6,7 +6,7 @@ title: Debasish's CV
 Graduate student, University of British Columbia, Canada
 
 <div id="webaddress">
-<a href="debasishray@ece.ubc.ca">isaac@applesdofall.org</a>
+<a href="debasishray@ece.ubc.ca">debasishray@ece.ubc.ca</a>
 | <a href="https://www.linkedin.com/in/debasish-ray-mohapatra">LinkedIn</a>
 | <a href="https://github.com/Debasishray19">Github</a>
 </div>
