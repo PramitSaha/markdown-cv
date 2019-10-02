@@ -21,6 +21,7 @@ Articulatory speech synthesis, physics of voice production - using finite differ
 
 `Sep2017 - Now`
 __MASc, University of British Columbia__, Electrical and Computer Engineering
+
 Supervised By: [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels)
 
 `Sep2017 - Now`
