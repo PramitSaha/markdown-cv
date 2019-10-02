@@ -23,18 +23,36 @@ Articulatory speech synthesis, physics of voice production - using finite differ
 `Sep2017 - Now`
 __Graduate Research Assistant,[HCT lab](https://hct.ece.ubc.ca/)__, Vancouver, Canada
 
-Using finite difference time domain (FDTD) approach to build a new vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster acoustic simulation.
+By using finite difference time domain (FDTD) approach, I am currently building a new vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster acoustic simulation. The scope of this project is to model the acoustics of human voice.
 
 `Jan2014 - Jan2017`
-__Software Test Engineer, [TCS](https://www.tcs.com/)__,Chennai, India
+__Software Test Engineer, [TCS](https://www.tcs.com/)__, Chennai, India
 
-- Sizar
+- Add Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Sep2015 - Aug2016`
+__Software Test Engineer, [TCS](https://www.tcs.com/)__, London, UK
 
-- Fellow
+- Add Experience
 
+
+### Teaching Experience
+
+`Jan2018 - Now`
+__Teaching Assistant,[The University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
+
+Responsibilities: Conducting tutorial sessions, managing student projects, lab and exam grading
+
+- CPEN441 - Human Computer Interfaces in Engineering Design (Spring 2018)
+- APSC160 - Introduction to Computation in Engineering Design (Fall 2018, Spring 2019)
+- CPEN211 - Introduction to Microcomputers (Fall 2019)
+
+`Sep2017 - Now`
+__Peer Tutor,[The University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
+
+- Individual tutorial sessions for students.
+- Have worked with students for the following courses: CPSC 302, CPSC 221, CPSC 100
+- Helping students with course materials and exam strategy
 
 
 ## Awards
