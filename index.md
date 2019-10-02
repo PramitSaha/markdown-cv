@@ -17,7 +17,8 @@ Graduate student, University of British Columbia, Canada
 
 Standing on the shoulders of giants
 
-### Specialized in
+
+### Specialized In
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
@@ -25,6 +26,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
+
 
 ## Education
 
