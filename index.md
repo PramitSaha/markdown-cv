@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Debasish's CV
+title: Debasish-Resume
 ---
 # Debasish Ray Mohapatra
 Graduate student, University of British Columbia, Canada
@@ -13,7 +13,7 @@ Graduate student, University of British Columbia, Canada
 </div>
 
 
-## Currently
+### Currently
 
 Standing on the shoulders of giants
 
