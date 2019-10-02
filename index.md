@@ -17,6 +17,15 @@ Graduate student, University of British Columbia, Canada
 
 Articulatory speech synthesis, physics of voice production - using finite difference (FDTD) technique to build a computational vocal tract for the faster acoustic simulation.
 
+## Education
+
+`Sep2017 - Now`
+__MASc, University of British Columbia__, Electrical and Computer Engineering
+Supervised By: [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels)
+
+`Sep2017 - Now`
+__B.E., Institute of Technical Education and Research__, [Electronics and communication engineering](http://www.departments.soa.ac.in/electronics-and-communication-engineering)
+
 
 ## Professional Experience
 
@@ -39,7 +48,7 @@ __Software Test Engineer, [TCS](https://www.tcs.com/)__, London, UK
 ### Teaching Experience
 
 `Jan2018 - Now`
-__Teaching Assistant,[The University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
+__Teaching Assistant,[University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
 
 Responsibilities: Conducting tutorial sessions, managing student projects, lab and exam grading
 
@@ -48,9 +57,9 @@ Responsibilities: Conducting tutorial sessions, managing student projects, lab a
 - CPEN211 - Introduction to Microcomputers (Fall 2019)
 
 `Sep2017 - Now`
-__Peer Tutor,[The University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
+__Peer Tutor,[University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
 
-- Individual tutorial sessions for students.
+- One-to-one tutorial sessions for students.
 - Have worked with students for the following courses: CPSC 302, CPSC 221, CPSC 100
 - Helping students with course materials and exam strategy
 
