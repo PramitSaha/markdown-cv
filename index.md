@@ -12,29 +12,21 @@ Graduate student, University of British Columbia, Canada
 | <a href="https://github.com/Debasishray19">Github</a>
 </div>
 
-
-### Currently
-
-Standing on the shoulders of giants
-
-
-### Specialized In
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
+<!--Add your research interest here and the domain that you have been working-->
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Articulatory speech synthesis, physics of voice production - using finite difference (FDTD) technique to build a computational vocal tract for the faster acoustic simulation.
 
 
-## Education
+## Professional Experience
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep2017 - Now`
+__Graduate Research Assistant,[HCT lab](https://hct.ece.ubc.ca/)__, Vancouver, Canada
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Using finite difference time domain (FDTD) approach to build a new vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster acoustic simulation.
+
+`Jan2014 - Jan2017`
+__Software Test Engineer, [TCS](https://www.tcs.com/)__,Chennai, India
 
 - Sizar
 
