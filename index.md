@@ -24,7 +24,7 @@ __MASc, University of British Columbia__, Electrical and Computer Engineering
 
 Supervised By: [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels)
 
-`Sep2017 - Now`
+`Aug2009 - Jul2013`
 __B.E., Institute of Technical Education and Research__, [Electronics and communication engineering](http://www.departments.soa.ac.in/electronics-and-communication-engineering)
 
 
@@ -33,18 +33,17 @@ __B.E., Institute of Technical Education and Research__, [Electronics and commun
 `Sep2017 - Now`
 __Graduate Research Assistant,[HCT lab](https://hct.ece.ubc.ca/)__, Vancouver, Canada
 
-By using finite difference time domain (FDTD) approach, I am currently building a new vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster acoustic simulation. The scope of this project is to model the acoustics of human voice.
+By using finite difference time domain (FDTD) approach, I am currently building a new vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster and precise acoustic simulation. The scope of this project is to model the acoustics of human voice. For more details please check the [github](https://github.com/Debasishray19/vocaltube-speech-synthesis).
 
 `Jan2014 - Jan2017`
-__Software Test Engineer, [TCS](https://www.tcs.com/)__, Chennai, India
+__Software Test Engineer, [TCS](https://www.tcs.com/)__
 
-- Add Experience
+I have an experience of working with two clients: [Deluxe Corporation](https://www.deluxe.com/) and [M&S](https://www.marksandspencer.com/). I had worked both from offshore [Chennai, India] as well as client location [London, UK].
 
-`Sep2015 - Aug2016`
-__Software Test Engineer, [TCS](https://www.tcs.com/)__, London, UK
-
-- Add Experience
-
+- Followed agile software devlopment lifecycle.
+- Understanding business requirements for writing test scenarios.
+- Used ALM and JIRA tool to manage test cases for the back-end applications and bug tracking.
+- Used HP UFT tool to design automated test scripts for web and desktop applications.
 
 ### Teaching Experience
 
@@ -67,48 +66,21 @@ __Peer Tutor,[University of British Columbia](https://hct.ece.ubc.ca/)__, Vancou
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`Jul2018 - Now`
+International student scholarship award [University ofBritish Columbia](https://www.ubc.ca/)
 
-Associate, *French Academy of Science*, Paris, France
+`Jun2015`
+Certification of Appreciation for outstanding contribution [TCS](https://www.tcs.com/)
 
 
 
 ## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+For a complete list of publications, please check [google scholar](https://scholar.google.ca/citations?hl=en&user=HzIWE5kAAAAJ) or [publication page]
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2019 -->
 
 
