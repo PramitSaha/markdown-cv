@@ -15,7 +15,7 @@ Graduate student, University of British Columbia, Canada
 <!--Add your research interest here and the domain that you have been working-->
 ### Research interests
 
-Articulatory speech synthesis, physics of voice production - using finite difference (FDTD) technique to build a computational vocal tract for the faster acoustic simulation.
+Articulatory speech synthesis, physics of voice production - Building a computational vocal tract model for the precise and faster acoustic simulation.
 
 ## Education
 
@@ -31,7 +31,7 @@ __B.E., Institute of Technical Education and Research__, [Electronics and commun
 ## Professional Experience
 
 `Sep2017 - Now`
-__Graduate Research Assistant,[HCT lab](https://hct.ece.ubc.ca/)__, Vancouver, Canada
+__Graduate Research Assistant, [HCT lab](https://hct.ece.ubc.ca/)__, Vancouver, Canada
 
 By using finite difference time domain (FDTD) approach, I am currently building a new vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster and precise acoustic simulation. The scope of this project is to model the acoustics of human voice. For more details please check the [github](https://github.com/Debasishray19/vocaltube-speech-synthesis).
 
@@ -48,7 +48,7 @@ I have an experience of working with two clients: [Deluxe Corporation](https://w
 ### Teaching Experience
 
 `Jan2018 - Now`
-__Teaching Assistant,[University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
+__Teaching Assistant, [University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
 
 Responsibilities: Conducting tutorial sessions, managing student projects, lab and exam grading
 
@@ -57,7 +57,7 @@ Responsibilities: Conducting tutorial sessions, managing student projects, lab a
 - CPEN211 - Introduction to Microcomputers (Fall 2019)
 
 `Sep2017 - Now`
-__Peer Tutor,[University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
+__Peer Tutor, [University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
 
 - One-to-one tutorial sessions for students.
 - Have worked with students for the following courses: CPSC 302, CPSC 221, CPSC 100
@@ -75,7 +75,7 @@ Certification of Appreciation for outstanding contribution - [TCS](https://www.t
 
 
 ## Publications
-For a complete list of publications, please check [google scholar](https://scholar.google.ca/citations?hl=en&user=HzIWE5kAAAAJ) or [publication page]
+To see my complete list of publications, please check [google scholar](https://scholar.google.ca/citations?hl=en&user=HzIWE5kAAAAJ) or [publication page]
 
 
 
