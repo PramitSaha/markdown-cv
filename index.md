@@ -67,10 +67,10 @@ __Peer Tutor,[University of British Columbia](https://hct.ece.ubc.ca/)__, Vancou
 ## Awards
 
 `Jul2018 - Now`
-International student scholarship award [University ofBritish Columbia](https://www.ubc.ca/)
+International student scholarship award - [University ofBritish Columbia](https://www.ubc.ca/)
 
 `Jun2015`
-Certification of Appreciation for outstanding contribution [TCS](https://www.tcs.com/)
+Certification of Appreciation for outstanding contribution - [TCS](https://www.tcs.com/)
 
 
 
