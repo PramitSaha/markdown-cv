@@ -75,7 +75,7 @@ Certification of Appreciation for outstanding contribution - [TCS](https://www.t
 
 
 ## Publications
-To see my complete list of publications, please check [google scholar](https://scholar.google.ca/citations?hl=en&user=HzIWE5kAAAAJ) or [publication page]
+To see my complete list of publications, please check [google scholar](https://scholar.google.ca/citations?hl=en&user=HzIWE5kAAAAJ) or [here](https://debasishray19.github.io/projects)
 
 
 
