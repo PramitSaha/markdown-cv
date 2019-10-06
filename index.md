@@ -15,7 +15,7 @@ Graduate student, University of British Columbia, Canada
 <!--Add your research interest here and the domain that you have been working-->
 ### Research interests
 
-Articulatory speech synthesis, physics of voice production - Building a computational vocal tract model for precise and faster acoustic simulation.
+Physics of voice production - Building computational vocal tract model for precise and faster acoustic simulation to design [articulatory speech synthesis](https://en.wikipedia.org/wiki/Articulatory_synthesis).
 
 ## Education
 
