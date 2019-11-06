@@ -17,6 +17,14 @@ Graduate student, University of British Columbia, Canada
 
 Physics of voice production - Building computational vocal tract model for precise and faster acoustic simulation of [articulatory speech synthesis](https://en.wikipedia.org/wiki/Articulatory_synthesis).
 
+<!--Add the ongoing or completed projects as a part of portfolio-->
+## Projects
+
+`2018`
+__Sound Stream__
+
+Sound Stream is an interactive interface (UI) for producing speech in real-time using an articulatory speech synthesizer. The goal was to design an efficient UI which could faciliate users to control various acoustic and articulatory parameters that could generate vowel sounds. As a part of three team members, my objective was to to build two controllers - a slider sensor controller using arduino and a computer-mouse controller using their position on a virtual 2D pad; and embed them to the JASS STK (java based) for driving the synthesizer. I also contributed partly in designing the physical interface. For more details, please check in [GitHub](https://github.com/Debasishray19/sound-stream).
+
 ## Education
 
 `Sep2017 - Now`
