@@ -23,7 +23,7 @@ Physics of voice production - Building computational vocal tract model for preci
 `2018`
 __Sound Stream__
 
-Sound Stream is an interactive interface (UI) for producing speech in real-time using an articulatory speech synthesizer. The goal was to design an efficient UI which could faciliate users to control various acoustic and articulatory parameters that could generate vowel sounds. As a part of three-members team, my objective was to to build two controllers - a slider sensor controller using arduino and a computer-mouse controller using its position on a virtual 2D pad; and embed them to the JASS STK (java based) for driving the synthesizer. I also contributed partly in designing the physical interface. For more technical details and project code, please check in [GitHub](https://github.com/Debasishray19/sound-stream).
+Sound Stream is an interactive interface (UI) for producing speech in real-time using an articulatory speech synthesizer. The goal was to design an efficient UI which could faciliate users to control various acoustic and articulatory parameters that could generate vowel sounds. As a part of three-members team, my objective was to to build two controllers - a slider sensor controller using arduino and a computer-mouse controller using its axial coordinates on a virtual 2D pad; and embed them to the JASS STK (java based) for driving the synthesizer. I also contributed partly in designing the physical interface. For more technical details and project code, please check in [GitHub](https://github.com/Debasishray19/sound-stream).
 
 ## Education
 
@@ -71,7 +71,13 @@ __Peer Tutor, [University of British Columbia](https://hct.ece.ubc.ca/)__, Vanco
 - Have worked with students for the following courses: CPSC 302, CPSC 221, CPSC 100
 - Helping students with course materials and exam strategy
 
+### Computing Skills
 
+__Programming Language__
+MATLAB, C, C++, Java (preliminary level)
+
+__OS__
+Winows
 ## Awards
 
 `Jul2018 - Now`
@@ -79,7 +85,6 @@ International student scholarship award - [University of British Columbia](https
 
 `Jun2015`
 Certification of Appreciation for outstanding contribution - [TCS](https://www.tcs.com/)
-
 
 
 ## Publications
