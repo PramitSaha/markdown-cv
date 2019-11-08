@@ -20,10 +20,15 @@ Physics of voice production - Building computational vocal tract model for preci
 <!--Add the ongoing or completed projects as a part of portfolio-->
 ## Projects
 
-`2018`
+`Jan2018 - Dec2018`
 __Sound Stream__
 
 Sound Stream is an interactive interface (UI) for producing speech in real-time using an articulatory speech synthesizer. The goal was to design an efficient UI which could faciliate users to control various acoustic and articulatory parameters that could generate vowel sounds. As a part of three-members team, my objective was to to build two controllers - a slider sensor controller using arduino and a computer-mouse controller using its axial coordinates on a virtual 2D pad; and embed them to the JASS STK (java based) for driving the synthesizer. I also contributed partly in designing the physical interface. For more technical details and project code, please check in [GitHub](https://github.com/Debasishray19/sound-stream).
+
+`Jul2018 - Now`
+__Vocal Tube__
+
+By using finite difference time domain (FDTD) approach, I am currently building a new vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster and precise acoustic simulation. The scope of this project is to design the acoustics features of human voice. For more details please check the [github](https://github.com/Debasishray19/vocaltube-speech-synthesis).
 
 ## Education
 
@@ -35,13 +40,14 @@ Supervised By: [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels)
 `Aug2009 - Jul2013`
 __B.E., Institute of Technical Education and Research__, [Electronics and communication engineering](http://www.departments.soa.ac.in/electronics-and-communication-engineering)
 
-
 ## Professional Experience
 
 `Sep2017 - Now`
 __Graduate Research Assistant, [HCT lab](https://hct.ece.ubc.ca/)__, Vancouver, Canada
-
-By using finite difference time domain (FDTD) approach, I am currently building a new vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster and precise acoustic simulation. The scope of this project is to model the acoustics of human voice. For more details please check the [github](https://github.com/Debasishray19/vocaltube-speech-synthesis).
+Currently, I am affiliated with [HCT Lab](https://hct.ece.ubc.ca/). I am pursuing my MASc program under the supervision of [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels) and [Victor Zappi](https://camd.northeastern.edu/faculty/victor-zappi/).
+- Understanding finite difference numerical analysis technique for designing acoustic solver.
+- Aeroacoustic analysis of uniform tube and vocal tract.
+- Computational modelling of the vocal tract from its geometrical features.
 
 `Jan2014 - Jan2017`
 __Software Test Engineer, [TCS](https://www.tcs.com/)__
@@ -73,11 +79,11 @@ __Peer Tutor, [University of British Columbia](https://hct.ece.ubc.ca/)__, Vanco
 
 ### Computing Skills
 
-__Programming Language__
+__Programming Language:__
 MATLAB, C, C++, Java (preliminary level)
 
-__OS__
-Winows
+__OS:__
+Windows
 ## Awards
 
 `Jul2018 - Now`
@@ -89,7 +95,6 @@ Certification of Appreciation for outstanding contribution - [TCS](https://www.t
 
 ## Publications
 To see my complete list of publications, please check [google scholar](https://scholar.google.ca/citations?hl=en&user=HzIWE5kAAAAJ) or [here](https://debasishray19.github.io/projects)
-
 
 
 <!-- ### Footer
