@@ -80,7 +80,7 @@ __Peer Tutor, [University of British Columbia](https://hct.ece.ubc.ca/)__, Vanco
 ### Computing Skills
 
 __Programming Language:__
-MATLAB, C, C++, Java (preliminary level)
+MATLAB, C, C++, Git (Bash), Java (preliminary level)
 
 __OS:__
 Windows
