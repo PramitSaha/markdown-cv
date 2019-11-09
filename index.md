@@ -23,16 +23,18 @@ Physics of voice production - Building computational vocal tract model for preci
 `Jan2018 - Dec2018`
 __Sound Stream__
 
-Sound Stream is an interactive interface (UI) for producing speech in real-time using an articulatory speech synthesizer. The goal was to design an efficient UI which could faciliate users to control various acoustic and articulatory parameters that could generate vowel sounds. As a part of three-members team, my objective was to to build two controllers - a slider sensor controller using arduino and a computer-mouse controller using its axial coordinates on a virtual 2D pad; and embed them to the JASS STK (java based) for driving the synthesizer. I also contributed partly in designing the physical interface. For more technical details and project code, please check in [GitHub](https://github.com/Debasishray19/sound-stream).
-<br>**Tools Used:** JASS STK, MATLAB, Arduino, Slider sensors, Document Camera
-<br>**Programming Language:** Java, MATLAB
+Sound Stream is an interactive interface (UI) for producing speech in real-time using an articulatory speech synthesizer. The goal was to design an efficient UI which could faciliate users to control various acoustic and articulatory parameters that could generate vowel sounds. As a part of three-members team, my objective was to to build two controllers - a slider sensor controller using arduino and a computer-mouse controller using its axial coordinates on a virtual 2D pad; and embed them to the JASS STK (java based) for driving the synthesizer. I also contributed partly in designing the physical interface.
+<br>***Tools Used:*** JASS STK, MATLAB, Arduino, Slider sensors, Document Camera
+<br>***Programming Language:*** Java, MATLAB
+<br>***Project Details & Source Code :*** [GitHub](https://github.com/Debasishray19/sound-stream)
 
 `Jul2018 - Now`
 __Vocal Tube__
 
-By using finite difference time domain (FDTD) approach, I am currently building a new vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster and precise acoustic simulation. The scope of this project is to design the acoustics features of human voice.  For more technical details and project code, please check in [GitHub](https://github.com/Debasishray19/vocaltube-speech-synthesis).
-<br>**Tools Used:** MATLAB
-<br>**Programming Language:** MATLAB, C++
+By using finite difference time domain (FDTD) approach, I am currently taking a novel approach to build a two-dimensional vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster and precise acoustic simulation. The scope of this project is to design the acoustics features of human voice.
+<br>***Tools Used:*** MATLAB
+<br>***Programming Language:*** MATLAB, C++
+<br>***Project Details & Source Code :*** [GitHub](https://github.com/Debasishray19/vocaltube-speech-synthesis)
 
 ## Education
 
