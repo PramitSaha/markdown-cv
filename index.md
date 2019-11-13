@@ -48,7 +48,7 @@ __B.E., Institute of Technical Education and Research__, [Electronics and commun
 
 Advisor: Sunita Samant, ITER, S'O'A University
 
-Project: Image Segmentation Based On Mutual Information
+Project: Image segmentation based on mutual information
 
 ## Professional Experience
 
