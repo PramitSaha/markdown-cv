@@ -31,7 +31,7 @@ Sound Stream is an interactive interface (UI) for producing speech in real-time 
 `Jul2018 - Now`
 __Vocal Tube__
 
-By using finite difference time domain (FDTD) approach, I am currently taking a novel approach to build a two-dimensional vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster and precise acoustic simulation. The scope of this project is to design the acoustics features of human voice.
+By using finite difference time domain (FDTD) approach, I am currently taking a novel approach to build a two-dimensional vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster and precise acoustic simulation. The scope of this project is to design the articulatory and acoustics features of human voice.
 <br>***Tools Used:*** MATLAB
 <br>***Programming Language:*** MATLAB, C++
 <br>***Project Details & Source Code :*** [GitHub](https://github.com/Debasishray19/vocaltube-speech-synthesis)
@@ -45,6 +45,10 @@ Supervised By: [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels)
 
 `Aug2009 - Jul2013`
 __B.E., Institute of Technical Education and Research__, [Electronics and communication engineering](http://www.departments.soa.ac.in/electronics-and-communication-engineering)
+
+Advisor: Sunita Samant, ITER, S'O'A University
+
+Project: Image Segmentation Based On Mutual Information
 
 ## Professional Experience
 
@@ -62,8 +66,8 @@ I have an experience of working with two clients: [Deluxe Corporation](https://w
 
 - Followed agile software devlopment lifecycle.
 - Understanding business requirements for designing test scenarios to test back-end applications.
-- Used ALM and JIRA tool to manage test cases for the back-end applications and bug tracking.
-- Used HP UFT tool to design automated test scripts for web and desktop applications.
+- Used ALM and JIRA tools to manage test cases for the back-end applications (ETL) and bug tracking.
+- Used HP UFT tool to design automated test scripts for web applications.
 
 ### Teaching Experience
 
@@ -86,7 +90,7 @@ __Peer Tutor, [University of British Columbia](https://hct.ece.ubc.ca/)__, Vanco
 ### Computing Skills
 
 __Programming Language:__
-MATLAB, C, C++, Git (Bash), Java (preliminary level)
+Git (Bash), MATLAB, C, C++, Java (preliminary level)
 
 __OS:__
 Windows
