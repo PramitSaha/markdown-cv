@@ -23,7 +23,7 @@ Physics of voice production - Building computational vocal tract model for preci
 `Jan2018 - Dec2018`
 __Sound Stream__
 
-Sound Stream is an interactive interface (UI) for producing speech in real-time using an articulatory speech synthesizer. The goal was to design an efficient UI which could faciliate users to control various acoustic and articulatory parameters that could generate vowel sounds. As a part of three-members team, my objective was to to build two controllers - a slider sensor controller using arduino and a computer-mouse controller using its axial coordinates on a virtual 2D pad; and embed them to the JASS STK (java based) for driving the synthesizer. I also contributed partly in designing the physical interface.
+Sound Stream is an interactive interface (UI) for producing speech in real-time using an articulatory speech synthesizer. The goal was to design an efficient UI which could faciliate users to control various acoustic and articulatory parameters that could generate vowel sounds. As a part of three-member team, my objective was to to build two controllers - a slider sensor controller using arduino and a computer-mouse controller using its axial coordinates on a virtual 2D pad; and embed them to the JASS STK (java based) for driving the synthesizer. I also contributed partly in designing the physical interface.
 <br>***Tools Used:*** JASS STK, MATLAB, Arduino, Slider sensors, Document Camera
 <br>***Programming Language:*** Java, MATLAB
 <br>***Project Details & Source Code :*** [GitHub](https://github.com/Debasishray19/sound-stream)
