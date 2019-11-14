@@ -65,9 +65,10 @@ __Software Test Engineer, [TCS](https://www.tcs.com/)__
 I have an experience of working with two clients: [Deluxe Corporation](https://www.deluxe.com/) and [M&S](https://www.marksandspencer.com/). I had worked both from offshore [Chennai, India] as well as client location [London, UK].
 
 - Followed agile software devlopment lifecycle.
-- Understanding business requirements for designing test scenarios to test back-end applications.
-- Used ALM and JIRA tools to manage test cases for the back-end applications (ETL) and bug tracking.
-- Used HP UFT tool to design automated test scripts for web applications.
+- Understanding business requirements for designing test scenarios and test cases.
+- Used ALM and JIRA test managment tools for test execution of the back-end applications (ETL), front-end web applications and bug tracking.
+- Used HP UFT tool to design test automation scripts for web applications.
+- Participated both in the functional and regression testing.
 
 ### Teaching Experience
 
