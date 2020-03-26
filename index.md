@@ -29,7 +29,7 @@ Sound Stream is an interactive interface (UI) for producing speech in real-time 
 <br>***Project Details & Source Code :*** [GitHub](https://github.com/Debasishray19/sound-stream)
 
 `Jul2018 - Now`
-__Vocal Tube__
+__Talking Tube__
 
 By using finite difference time domain (FDTD) approach, I am currently taking a novel approach to build a two-dimensional vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster and precise acoustic simulation. The scope of this project is to design the articulatory and acoustics features of human voice.
 <br>***Tools Used:*** MATLAB
