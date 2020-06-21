@@ -6,7 +6,7 @@ title: Pramit-Resume
 Graduate student, University of British Columbia, Canada
 
 <div id="webaddress">
-<a href="https://pramitsaha.github.io/">HomePage</a> 
+<a href="https://pramitsaha.github.io/">Home Page</a> 
 | <a href="mailto:pramit@ece.ubc.ca">pramit@ece.ubc.ca</a>
 | <a href="https://www.linkedin.com/in/pramit-saha-0a9338b5/">LinkedIn</a>
 | <a href="https://github.com/PramitSaha">Github</a>
@@ -15,10 +15,9 @@ Graduate student, University of British Columbia, Canada
 <!--Add your research interest here and the domain that you have been working-->
 ### Research interests
 
-Physics of voice production - Building computational vocal tract model for precise and faster acoustic simulation of [articulatory speech synthesis](https://en.wikipedia.org/wiki/Articulatory_synthesis).
 
 <!--Add the ongoing or completed projects as a part of portfolio-->
-## Projects
+## Selected projects
 
 `Jan2018 - Dec2018`
 __Sound Stream__
@@ -39,7 +38,7 @@ By using finite difference time domain (FDTD) approach, I am currently taking a 
 ## Education
 
 `Sep2017 - Now`
-__MASc, University of British Columbia__, Electrical and Computer Engineering
+__M.A.Sc (Master of Applied Science), Electrical and Computer Engineering__, University of British Columbia
 
 Supervised By: [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels)
 
