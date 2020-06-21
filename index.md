@@ -8,8 +8,8 @@ Graduate student, University of British Columbia, Canada
 <div id="webaddress">
 <a href="https://pramitsaha.github.io/">HomePage</a> 
 | <a href="mailto:pramit@ece.ubc.ca">pramit@ece.ubc.ca</a>
-| <a href="https://www.linkedin.com/in/debasish-ray-mohapatra">LinkedIn</a>
-| <a href="https://www.linkedin.com/in/pramit-saha-0a9338b5/">Github</a>
+| <a href="https://www.linkedin.com/in/pramit-saha-0a9338b5/">LinkedIn</a>
+| <a href="https://github.com/PramitSaha">Github</a>
 </div>
 
 <!--Add your research interest here and the domain that you have been working-->
