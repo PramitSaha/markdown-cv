@@ -17,13 +17,13 @@ Graduate student, University of British Columbia, Canada
 Deep Learning, Bayesian Inference, Speech Motor Control, Speech Synthesis, Silent Speech Interface, Human Computer Interface, Computer Vision.
 
 <!--Add the ongoing or completed projects as a part of portfolio-->
-## Selected projects
+## Selected recent projects
 
 
 `Jan2019 - Now`
 __Investigating hand-to-speech motor control__
-
 Peer-reviewed Publications
+
 `April2018 - Now`
 __Mapping articulatory and acoustic domain__
 Peer-reviewed Publications
