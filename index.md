@@ -19,21 +19,23 @@ Deep Learning,
 <!--Add the ongoing or completed projects as a part of portfolio-->
 ## Selected projects
 
+
+`Jan2019 - Now`
+__Investigating hand-to-speech motor control__
+
+Peer-reviewed Publications
+`April2018 - Now`
+__Mapping articulatory and acoustic domain__
+Peer-reviewed Publications
+
+`Apr2018 - Apr2019`
+__Recognizing imagined speech__
+Peer-reviewed Publications
+
 `Jan2018 - Dec2018`
-__Sound Stream__
+__Developing silent speech interfaces__
+Peer-reviewed Publications
 
-Sound Stream is an interactive interface (UI) for producing speech in real-time using an articulatory speech synthesizer. The goal was to design an efficient UI which could faciliate users to control various acoustic and articulatory parameters that could generate vowel sounds. As a part of three-member team, my objective was to to build two controllers - a slider sensor controller using arduino and a computer-mouse controller using its axial coordinates on a virtual 2D pad; and embed them to the JASS STK (java based) for driving the synthesizer. I also contributed partly in designing the physical interface.
-<br>***Tools Used:*** JASS STK, MATLAB, Arduino, Slider sensors, Document Camera
-<br>***Programming Language:*** Java, MATLAB
-<br>***Project Details & Source Code :*** [GitHub](https://github.com/Debasishray19/sound-stream)
-
-`Jul2018 - Now`
-__Talking Tube__
-
-By using finite difference time domain (FDTD) approach, I am currently taking a novel approach to build a two-dimensional vocal tract model which is the extension of existing 2D FDTD vocal tract model. The model uses a new geometrical feature (depth) in its acoustic wave solver equation as an extra impedance parameter for a faster and precise acoustic simulation. The scope of this project is to design the articulatory and acoustics features of human voice.
-<br>***Tools Used:*** MATLAB
-<br>***Programming Language:*** MATLAB, C++
-<br>***Project Details & Source Code :*** [GitHub](https://github.com/Debasishray19/vocaltube-speech-synthesis)
 
 ## Education
 
@@ -79,7 +81,7 @@ __Winter Research Intern, Electronics and Electrical Communication Engineering D
 - Supervisors: Prof. Sudipta Mukhopadhyay and Prof. Ashis Kumar Dhara
 
 
-### Teaching Experience
+## Teaching Experience
 
 `Jan2018 - Now`
 __Teaching Assistant, University of British Columbia__, Vancouver, Canada
@@ -97,7 +99,13 @@ __Peer Tutor, [University of British Columbia](https://hct.ece.ubc.ca/)__, Vanco
 - Have worked with students for the following courses: CPSC 302, CPSC 221, CPSC 100
 - Helping students with course materials and exam strategy
 
-### Computing Skills
+## Reviewing Activities
+
+- MICCAI 2020
+- MICCAI 2019
+- IEEE TENCON 2016
+
+## Computing Skills
 
 __Programming Language:__
 Python, MATLAB, C
@@ -148,7 +156,7 @@ __Ministry of Human Resource Development Scholarship__ awarded for securing 27th
 ## Publications
 To see my complete list of publications, please check [google scholar](https://scholar.google.ca/citations?hl=en&user=HzIWE5kAAAAJ) or [here](https://debasishray19.github.io/publications)
 
-
+Community and Volunteer Activities
 <!-- ### Footer
 
 Last updated: October 2019 -->
