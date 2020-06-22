@@ -103,9 +103,10 @@ __Peer Tutor, [University of British Columbia](https://hct.ece.ubc.ca/)__, Vanco
 
 ## Reviewing Activities
 
-- MICCAI 2020
-- MICCAI 2019
-- IEEE TENCON 2016
+- __MICCAI 2020__
+- __MICCAI 2019__
+- __IEEE TENCON 2016__
+- __Abstracts for UBC Language Sciences Graduate Student and Postdoctoral Fellow Research Day__
 
 ## Computing Skills
 
