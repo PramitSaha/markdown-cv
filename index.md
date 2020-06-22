@@ -32,7 +32,7 @@ __Mapping articulatory and acoustic domain__
 
 [1] Saha, Pramit, and Sidney Fels. "Learning Joint Articulatory-Acoustic Representations with Normalizing Flows." arXiv preprint arXiv:2005.09463 (2020). [Under review in INTERSPEECH 2020]
 
-[2] Saha, Pramit, Liu, Yadong, Gick, Bryan, and Sidney Fels. "Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images" [Early acceptance for publication in MICCAI 2020]
+[2] Saha, Pramit, Yadong Liu, Bryan Gick, and Sidney Fels. "Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images" [Early acceptance for publication in MICCAI 2020]
 
 [3] Saha, Pramit, Praneeth Srungarapu, and Sidney Fels. "Towards Automatic Speech Identification from Vocal Tract Shape Dynamics in Real-time MRI." Proc. Interspeech 2018 (2018): 1249-1253.
 
@@ -41,6 +41,12 @@ __Mapping articulatory and acoustic domain__
 __Recognizing imagined speech__
 
 <br>***Peer-reviewed Publications:***
+[1] Saha, Pramit, Muhammad Abdul-Mageed, and Sidney Fels. "SPEAK YOUR MIND! Towards Imagined Speech Recognition with Hierarchical Deep Learning}}." Proc. Interspeech 2019 (2019): 141-145.
+
+[2] Saha, Pramit, Sidney Fels, and Muhammad Abdul-Mageed. "Deep learning the eeg manifold for phonological categorization from active thoughts." ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019.
+
+[3] Saha, Pramit, and Sidney Fels. "Hierarchical deep feature learning for decoding imagined speech from eeg." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
+
 
 `Jan2018 - Dec2018`
 __Developing silent speech interfaces__
