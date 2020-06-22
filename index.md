@@ -19,18 +19,21 @@ Deep Learning, Bayesian Inference, Speech Motor Control, Speech Synthesis, Silen
 <!--Add the ongoing or completed projects as a part of portfolio-->
 ## Selected recent projects
 
-[1] Saha, Pramit and Sidney Fels. "Your Hands Can Talk :Perceptually-Aware Mapping of Hand GestureTrajectories to Vowel Sequences" [under review]
 
-[2] Yadong Liu, Pramit Saha, Arian Shamei, Bryan Gick, Sidney Fels. "Deep learning based continuous vowel space mapping from hand gestures", Acoustics Week in Canada 2019
-
-[3] Yadong Liu, Pramit Saha, Arian Shamei, Bryan Gick, Sidney Fels. "Mapping a Continuous Vowel Space to Hand Gestures." Canadian Acoustics 48.1 (2020).
 
 `Jan2019 - Now`
 __Investigating hand-to-speech motor control__
 
 <br>***Peer-reviewed Publications:***
 
+[1] Saha, Pramit and Sidney Fels. "Your Hands Can Talk : Perceptually-Aware Mapping of Hand Gesture Trajectories to Vowel Sequences" [under review]
+
+[2] Yadong Liu, Pramit Saha, Arian Shamei, Bryan Gick and Sidney Fels. "Deep learning based continuous vowel space mapping from hand gestures", Acoustics Week in Canada 2019
+
+[3] Yadong Liu, Pramit Saha, Arian Shamei, Bryan Gick and Sidney Fels. "Mapping a Continuous Vowel Space to Hand Gestures." Canadian Acoustics 48.1 (2020).
+
 `April2018 - Now`
+
 __Mapping articulatory and acoustic domain__
 
 <br>***Peer-reviewed Publications:***
@@ -58,6 +61,12 @@ __Recognizing imagined speech__
 __Developing silent speech interfaces__
 
 <br>***Peer-reviewed Publications:***
+
+[1] Saha, Pramit, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. [Under review in Interspeech 2020]
+
+[2] Saha, Pramit, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. "Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis." Canadian Acoustics 46.4 (2018): 58-59.
+
+[3] Saha, Pramit, Debasish R. Mohapatra, Venkata Praneeth Srungarapu, and Sid Fels. "SOUND STREAM: Towards vocal sound synthesis via dual-handed simultaneous control of articulatory parameters." The Journal of the Acoustical Society of America 144, no. 3 (2018): 1907-1907.
 
 
 ## Education
