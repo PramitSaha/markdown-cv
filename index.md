@@ -47,7 +47,7 @@ Supervised By: [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels)
 Project: Mapping the articulatory-acoustic domain and investigating speech motor control
 
 `Jul2012 - Jun2016`
-__B.E.(Bachelor of Engineering) Honours (Rank: 5) in Electrical Engineering__, Jadavpur University, Kolkata, India
+__B.E.(Bachelor of Engineering) Honours (Rank: 5 out of 110 students) in Electrical Engineering__, Jadavpur University, Kolkata, India
 
 Advisor: [Amitava Chatterjee](https://sites.google.com/site/amitavachatterjee1968/)
 
