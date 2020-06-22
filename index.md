@@ -155,7 +155,6 @@ __Ministry of Human Resource Development Scholarship__ awarded for securing 27th
 To see the complete list of my publications, please check [google scholar](https://scholar.google.com/citations?hl=en&user=Sb7d-rsAAAAJ) 
 
 ## Community and Volunteer Activities
-
 __Treasurer and Executive Committee Member__, ECE Graduate Student Association (ECEGSA), University of British Columbia
 
 As the treasurer and executive committee member of ECEGSA, I am in charge of
