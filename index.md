@@ -100,7 +100,7 @@ Responsibilities: Preparing course materials, conducting tutorial sessions, mana
 - __MICCAI 2020__
 - __MICCAI 2019__
 - __IEEE TENCON 2016__
-- __Abstracts for UBC Language Sciences Graduate Student and Postdoctoral Fellow Research Day__
+- __Abstracts for UBC Language Sciences GSPFRD__
 
 ## Computing Skills
 
@@ -113,6 +113,8 @@ Windows
 
 `2019`
 __ISCA Travel Grant__ awarded by the International Speech and Communication Association (ISCA) - 650 Euro
+
+`2019`
 
 __AAAI Student Scholarship__ awarded by Association for Advancement of Artificial Intelligence (AAAI) - 400 Dollars
 
