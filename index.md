@@ -23,22 +23,22 @@ Deep Learning, Bayesian Inference, Speech Motor Control, Speech Synthesis, Silen
 `Jan2019 - Now`
 __Investigating hand-to-speech motor control__
 
-<br>***Peer-reviewed Publications:
+<br>***Peer-reviewed Publications:***
 
 `April2018 - Now`
 __Mapping articulatory and acoustic domain__
 
-<br>***Peer-reviewed Publications:
+<br>***Peer-reviewed Publications:***
 
 `Apr2018 - Apr2019`
 __Recognizing imagined speech__
 
-<br>***Peer-reviewed Publications:
+<br>***Peer-reviewed Publications:***
 
 `Jan2018 - Dec2018`
 __Developing silent speech interfaces__
 
-<br>***Peer-reviewed Publications:
+<br>***Peer-reviewed Publications:***
 
 
 ## Education
