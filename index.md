@@ -86,11 +86,13 @@ __Winter Research Intern, Electronics and Electrical Communication Engineering D
 `Jan2018 - Now`
 __Teaching Assistant, University of British Columbia__, Vancouver, Canada
 
-Responsibilities: Conducting tutorial sessions, managing student projects, lab and exam grading
+Responsibilities: Preparing course materials, conducting tutorial sessions, managing student projects, lab and exam grading
 
-- CPEN441 - Human Computer Interfaces in Engineering Design (Spring 2018)
-- APSC160 - Introduction to Computation in Engineering Design (Fall 2018, Spring 2019)
-- CPEN211 - Introduction to Microcomputers (Fall 2019)
+- APSC160 - Introduction to Computation in Engineering Design (Spring 2018, Fall 2018, Spring 2019, Fall 2019)
+- ELEC 203 - Basic Circuit Analysis (Fall 2018)
+- ELEC 371 - Biomedical Engineering Instrumentation (Spring 2019, Spring 2020)
+- ELEC 523 - Medical Imaging (Fall 2019)
+- ELEC 341 - Systems and Control (Summer 2020)
 
 `Sep2017 - Now`
 __Peer Tutor, [University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
