@@ -13,8 +13,8 @@ Graduate student, University of British Columbia, Canada
 </div>
 
 <!--Add your research interest here and the domain that you have been working-->
-### Research interests
-Deep Learning, 
+## Research interests
+Deep Learning, Bayesian Inference, Speech Motor Control, Speech Synthesis, Silent Speech Interface, Human Computer Interface, Computer Vision.
 
 <!--Add the ongoing or completed projects as a part of portfolio-->
 ## Selected projects
