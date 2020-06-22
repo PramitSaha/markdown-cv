@@ -186,6 +186,8 @@ __Ministry of Human Resource Development Scholarship__ awarded for securing 27th
 To see the complete list of my publications, please check [google scholar](https://scholar.google.com/citations?hl=en&user=Sb7d-rsAAAAJ) 
 
 ## Community and Volunteer Activities
+
+`2018-Now`
 __Treasurer and Executive Committee Member__, ECE Graduate Student Association (ECEGSA), University of British Columbia
 
 As the treasurer and executive committee member of ECEGSA, I am in charge of
@@ -198,11 +200,15 @@ the expenditures monthly, etc. Besides, I participate in the decision making of 
 departmental student welfare policies taking by ECEGSA (Electrical and Computer
 Engineering Graduate Student Association).
 
+`2017-2020`
+
 __Lab Website Maintainer__, Human Computer Technologies (HCT) Lab, University of British Columbia
 
 I am volunteering to maintain the lab website and keeping it up-to-date. I am running
 tutorials to help the lab members understand how to create their profiles, include their
 publications and other details in their profiles, etc.
+
+`2012-2016`
 
 __Class Representative and Member of Anti-Ragging Committee__, Electrical Engineering Department, Jadavpur University
 
