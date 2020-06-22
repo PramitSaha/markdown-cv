@@ -3,7 +3,7 @@ layout: cv
 title: Pramit-Resume
 ---
 # Pramit Saha
-Graduate student, University of British Columbia, Canada
+Graduate student, University of British Columbia, Vancouver, Canada
 
 <div id="webaddress">
 <a href="https://pramitsaha.github.io/">Home Page</a> 
