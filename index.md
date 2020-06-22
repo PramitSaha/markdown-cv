@@ -94,13 +94,6 @@ Responsibilities: Preparing course materials, conducting tutorial sessions, mana
 - ELEC 523 - Medical Imaging (Fall 2019)
 - ELEC 341 - Systems and Control (Summer 2020)
 
-`Sep2017 - Now`
-__Peer Tutor, [University of British Columbia](https://hct.ece.ubc.ca/)__, Vancouver, Canada
-
-- One-to-one tutorial sessions for students.
-- Have worked with students for the following courses: CPSC 302, CPSC 221, CPSC 100
-- Helping students with course materials and exam strategy
-
 ## Reviewing Activities
 
 - __MICCAI 2020__
