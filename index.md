@@ -23,19 +23,22 @@ Deep Learning, Bayesian Inference, Speech Motor Control, Speech Synthesis, Silen
 `Jan2019 - Now`
 __Investigating hand-to-speech motor control__
 
-__Peer-reviewed Publications__
+<br>***Peer-reviewed Publications:
 
 `April2018 - Now`
 __Mapping articulatory and acoustic domain__
-Peer-reviewed Publications
+
+<br>***Peer-reviewed Publications:
 
 `Apr2018 - Apr2019`
 __Recognizing imagined speech__
-Peer-reviewed Publications
+
+<br>***Peer-reviewed Publications:
 
 `Jan2018 - Dec2018`
 __Developing silent speech interfaces__
-Peer-reviewed Publications
+
+<br>***Peer-reviewed Publications:
 
 
 ## Education
@@ -60,7 +63,7 @@ Project: Three-dimensional terrain image map generation for navigation of a quad
 __MITACS Globalink Graduate Fellow and Graduate Research Assistant, [HCT lab](https://hct.ece.ubc.ca/)__, Vancouver, Canada
 - Department of Electrical and Computer Engineering (ECE), University of British Columbia (UBC), Vancouver, Canada
 - Duties included: Research on developing controllable speech-related Human Computer Interface
-- Supervisor: Professor Sidney Fels
+- Supervisor: Prof. Sidney Fels
 
 `May2018 - Now`
 __Treasurer and Executive Committee Member, UBC ECE Graduate Student Association (ECEGSA)__
@@ -105,7 +108,7 @@ Responsibilities: Preparing course materials, conducting tutorial sessions, mana
 ## Computing Skills
 
 __Programming Language:__
-Python, MATLAB, C
+Python (including deep learning frameworks: PyTorch, Keras, TensorFlow), MATLAB, C
 
 __OS:__
 Windows
