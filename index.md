@@ -107,23 +107,41 @@ Windows
 ## Awards and Recognitions
 
 `2019`
+
 __ISCA Travel Grant__ awarded by the International Speech and Communication Association (ISCA) - 650 Euro
+
 __AAAI Student Scholarship__ awarded by Association for Advancement of Artificial Intelligence (AAAI) - 400 Dollars
+
 `2018-2019`
+
 __Faculty of Applied Science Graduate Award__ awarded for academic and research achievements by the Department of Electrical and Computer Engineering (ECE) of University of British Columbia (UBC) - 8,000 Canadian dollars
+
 `2017-Now`
+
 __International Tuition Award__ awarded by the University of British Columbia - 9,600 Canadian Dollars
+
 `2017-2018`
+
 __MITACS Globalink Graduate Fellowship Award__ awarded by MITACS - 15,000 Canadian Dollars
+
 `2016`
+
 __MITACS Globalink Research Internship (GRI) Award__ awarded by MITACS - 6,800 Canadian Dollars
+
 `2015`
+
 __Best Paper Award__ awarded by IEEE INDICON
+
 `2014`
+
 __Best Student Paper Award__ awarded by IEEE CALCON 
+
 `2014`
+
 __Best White Paper Award 2014__ awarded by Schneider Electric Pvt. Ltd.
+
 __Ministry of Human Resource Development Scholarship__ awarded for securing 27th rank out of 7,00,000 candidates (approx.) in the 12th standard Board Examinations, by Government of India - 50,000 INR
+
 
 ## Publications
 To see my complete list of publications, please check [google scholar](https://scholar.google.ca/citations?hl=en&user=HzIWE5kAAAAJ) or [here](https://debasishray19.github.io/publications)
