@@ -150,7 +150,7 @@ __Ministry of Human Resource Development Scholarship__ awarded for securing 27th
 
 
 ## Publications
-To see my complete list of publications, please check [google scholar](https://scholar.google.ca/citations?hl=en&user=HzIWE5kAAAAJ) or [here](https://debasishray19.github.io/publications)
+To see my complete list of publications, please check [google scholar](https://scholar.google.com/citations?hl=en&user=Sb7d-rsAAAAJ) 
 
 ## Community and Volunteer Activities
 
