@@ -100,7 +100,7 @@ __Peer Tutor, [University of British Columbia](https://hct.ece.ubc.ca/)__, Vanco
 ### Computing Skills
 
 __Programming Language:__
-Git (Bash), MATLAB, C, C++, Java (preliminary level)
+Python, MATLAB, C
 
 __OS:__
 Windows
@@ -130,11 +130,11 @@ __MITACS Globalink Research Internship (GRI) Award__ awarded by MITACS - 6,800 C
 
 `2015`
 
-__Best Paper Award__ awarded by IEEE INDICON
+__Best Paper Award__ awarded by IEEE INDICON 2015
 
 `2014`
 
-__Best Student Paper Award__ awarded by IEEE CALCON 
+__Best Student Paper Award__ awarded by IEEE CALCON 2014
 
 `2014`
 
