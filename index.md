@@ -140,6 +140,8 @@ __Best Student Paper Award__ awarded by IEEE CALCON 2014
 
 __Best White Paper Award 2014__ awarded by Schneider Electric Pvt. Ltd.
 
+`2012-2016`
+
 __Ministry of Human Resource Development Scholarship__ awarded for securing 27th rank out of 7,00,000 candidates (approx.) in the 12th standard Board Examinations, by Government of India - 50,000 INR
 
 
