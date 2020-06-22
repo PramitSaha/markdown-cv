@@ -29,6 +29,10 @@ __Investigating hand-to-speech motor control__
 __Mapping articulatory and acoustic domain__
 
 <br>***Peer-reviewed Publications:***
+[1] Saha, Pramit, and Sidney Fels. "Learning Joint Articulatory-Acoustic Representations with Normalizing Flows." arXiv preprint arXiv:2005.09463 (2020). [Under review in INTERSPEECH 2020]
+[2] Saha, Pramit, Liu, Yadong, Gick, Bryan, and Sidney Fels. "Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images" [Early acceptance for publication in MICCAI 2020]
+[3] Saha, Pramit, Praneeth Srungarapu, and Sidney Fels. "Towards Automatic Speech Identification from Vocal Tract Shape Dynamics in Real-time MRI." Proc. Interspeech 2018 (2018): 1249-1253.
+
 
 `Apr2018 - Apr2019`
 __Recognizing imagined speech__
