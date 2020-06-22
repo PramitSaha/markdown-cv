@@ -19,6 +19,11 @@ Deep Learning, Bayesian Inference, Speech Motor Control, Speech Synthesis, Silen
 <!--Add the ongoing or completed projects as a part of portfolio-->
 ## Selected recent projects
 
+[1] Saha, Pramit and Sidney Fels. "Your Hands Can Talk :Perceptually-Aware Mapping of Hand GestureTrajectories to Vowel Sequences" [under review]
+
+[2] Yadong Liu, Pramit Saha, Arian Shamei, Bryan Gick, Sidney Fels. "Deep learning based continuous vowel space mapping from hand gestures", Acoustics Week in Canada 2019
+
+[3] Yadong Liu, Pramit Saha, Arian Shamei, Bryan Gick, Sidney Fels. "Mapping a Continuous Vowel Space to Hand Gestures." Canadian Acoustics 48.1 (2020).
 
 `Jan2019 - Now`
 __Investigating hand-to-speech motor control__
@@ -30,7 +35,7 @@ __Mapping articulatory and acoustic domain__
 
 <br>***Peer-reviewed Publications:***
 
-[1] Saha, Pramit, and Sidney Fels. "Learning Joint Articulatory-Acoustic Representations with Normalizing Flows." arXiv preprint arXiv:2005.09463 (2020). [Under review in INTERSPEECH 2020]
+[1] Saha, Pramit, and Sidney Fels. "Learning Joint Articulatory-Acoustic Representations with Normalizing Flows." arXiv preprint arXiv:2005.09463 (2020). [Under review in Interspeech 2020]
 
 [2] Saha, Pramit, Yadong Liu, Bryan Gick, and Sidney Fels. "Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images" [Early acceptance for publication in MICCAI 2020]
 
@@ -41,6 +46,7 @@ __Mapping articulatory and acoustic domain__
 __Recognizing imagined speech__
 
 <br>***Peer-reviewed Publications:***
+
 [1] Saha, Pramit, Muhammad Abdul-Mageed, and Sidney Fels. "SPEAK YOUR MIND! Towards Imagined Speech Recognition with Hierarchical Deep Learning}}." Proc. Interspeech 2019 (2019): 141-145.
 
 [2] Saha, Pramit, Sidney Fels, and Muhammad Abdul-Mageed. "Deep learning the eeg manifold for phonological categorization from active thoughts." ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019.
