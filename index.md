@@ -112,7 +112,6 @@ Windows
 ## Awards and Recognitions
 
 `2019`
-
 __ISCA Travel Grant__ awarded by the International Speech and Communication Association (ISCA) - 650 Euro
 
 __AAAI Student Scholarship__ awarded by Association for Advancement of Artificial Intelligence (AAAI) - 400 Dollars
@@ -154,4 +153,11 @@ __Ministry of Human Resource Development Scholarship__ awarded for securing 27th
 To see my complete list of publications, please check [google scholar](https://scholar.google.ca/citations?hl=en&user=HzIWE5kAAAAJ) or [here](https://debasishray19.github.io/publications)
 
 ## Community and Volunteer Activities
+
+__Treasurer and Executive Committee Member__, ECE Graduate Student Association (ECEGSA), University of British Columbia
+
+__Lab Website Maintainer__, Human Computer Technologies (HCT) Lab, University of British Columbia
+
+__Class Representative and Member of Anti-Ragging Committee__, Electrical Engineering Department, Jadavpur University
+
 
