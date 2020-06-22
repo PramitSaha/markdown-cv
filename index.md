@@ -152,14 +152,39 @@ __Ministry of Human Resource Development Scholarship__ awarded for securing 27th
 
 
 ## Publications
-To see my complete list of publications, please check [google scholar](https://scholar.google.com/citations?hl=en&user=Sb7d-rsAAAAJ) 
+To see the complete list of my publications, please check [google scholar](https://scholar.google.com/citations?hl=en&user=Sb7d-rsAAAAJ) 
 
 ## Community and Volunteer Activities
 
 __Treasurer and Executive Committee Member__, ECE Graduate Student Association (ECEGSA), University of British Columbia
 
+As the treasurer and executive committee member of ECEGSA, I am in charge of
+organizing and maintaining funds for society of more than 300 graduate students in
+the department. I participate in organizing the academic seminars and tutorials as
+well as internal and external social events. I prepare budgets for each event, organize
+meetings with the other members of the committee, communicate with the bank and the
+departmental financial authorities, withdraw from and deposit money into the bank, audit
+the expenditures monthly, etc. Besides, I participate in the decision making of different
+departmental student welfare policies taking by ECEGSA (Electrical and Computer
+Engineering Graduate Student Association).
+
 __Lab Website Maintainer__, Human Computer Technologies (HCT) Lab, University of British Columbia
 
+I am volunteering to maintain the lab website and keeping it up-to-date. I am running
+tutorials to help the lab members understand how to create their profiles, include their
+publications and other details in their profiles, etc.
+
 __Class Representative and Member of Anti-Ragging Committee__, Electrical Engineering Department, Jadavpur University
+
+I acted as the Class Representative of Department of Electrical Engineering, Jadavpur
+University in my Undergraduate days, for four years. I was responsible for printing and
+distributing study materials and notes handed over by the course instructors to me,
+discussing with the students and deciding examination dates and communicating to the
+department examination committee. Besides, I was in charge of maintaining general
+discipline and academic environment in the class. Furthermore, I was the Student Member
+of Anti-ragging Committee of Jadavpur University (2012-2016), where I used to meet
+the other members and discuss about current ragging and disciplinary scenarios in the
+campus, reporting about unwanted incidents in the department, propose solutions for
+improving the anti-ragging policies, helping students with counselling, etc.
 
 
