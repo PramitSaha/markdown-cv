@@ -33,11 +33,11 @@ Human speech production is one of the most complex processes within the human mo
 
 [1] Saha, Pramit and Sidney Fels. "Your Hands Can Talk : Perceptually-Aware Mapping of Hand Gesture Trajectories to Vowel Sequences" [under review]
 
-[2] Yadong Liu*, Pramit Saha*, Arian Shamei, Bryan Gick and Sidney Fels. "Deep learning based continuous vowel space mapping from hand gestures", Acoustics Week in Canada 2019
+[2] Yadong Liu\* , Pramit Saha\*, Arian Shamei, Bryan Gick and Sidney Fels. "Deep learning based continuous vowel space mapping from hand gestures", Acoustics Week in Canada 2019
 
-[3] Yadong Liu*, Pramit Saha*, Arian Shamei, Bryan Gick and Sidney Fels. "Mapping a Continuous Vowel Space to Hand Gestures." Canadian Acoustics 48.1 (2020).
+[3] Yadong Liu\*, Pramit Saha\*, Arian Shamei, Bryan Gick and Sidney Fels. "Mapping a Continuous Vowel Space to Hand Gestures." Canadian Acoustics 48.1 (2020).
 
-(* indicates equal contribution)
+(\* indicates equal contribution)
 
 `April2018 - Now`
 
