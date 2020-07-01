@@ -26,12 +26,12 @@ __Investigating hand-to-speech motor control__
 
 The goal of this project is to investigate and develop a plausible underlying mechanism of how our human motor control system leverages the biomechanical and physical constraints as well as the auditory perceptual abilities to reduce the difficulty of the speech task.
 
-Human speech production is one of the most complex processes within the human motor repertoire, that needs a precise coordination of over 100 muscles per utterance of word. In continuous speech, the brain has to deal with the challenging task of rapid and accurate coordination of a set of redundant and interacting articulators, which requires the multi-dimensional control of multiple articulators at a dauntingly high rate. The neuro-computational bases behind such control is still not well understood. In this work, we endeavor to address this issue by investigating the effect of perceptual feedback-based regulations and spatio-temporal constraints for control of vowel sounds in a hand gesture-to-speech mapping system. As a starting point, we developed a synthesizer which can be controlled by hand movement to produce continuous vowel sounds easily and intuitively. We also investigated glove based 2D control, 1D+1D control and mouse control to understand how different control paradigms vary the effort of hand-to-speech motor control. Furthermore, we developed an information theoretic view of the aforementioned control and demonstrated how deep learning based mapping can be utilized to reduce the difficulty level of the task.
+Human speech production is one of the most complex processes within the human motor repertoire, that needs a precise coordination of over 100 muscles per utterance of word. In continuous speech, the brain has to deal with the challenging task of rapid and accurate coordination of a set of redundant and interacting articulators, which requires the multi-dimensional control of multiple articulators at a dauntingly high rate. The neuro-computational bases behind such control is still not well understood. In this work, we endeavor to address this issue by investigating the effect of perceptual feedback-based regulations and spatio-temporal constraints for control of vowel sounds in a hand gesture-to-speech mapping system. As a starting point, we developed a synthesizer which can be controlled by hand movement to produce continuous vowel sounds easily and intuitively. We also investigated glove based 2D control, 1D+1D control and mouse control to understand how different control paradigms vary the effort of hand-to-speech motor control. Furthermore, we put forth an information theoretic view of the aforementioned control and demonstrated how deep learning based mapping can be utilized to reduce the difficulty level of the task.
 
 
 <br>***Peer-reviewed Publications:***
 
-[1] Saha, Pramit and Sidney Fels. "Your Hands Can Talk : Perceptually-Aware Mapping of Hand Gesture Trajectories to Vowel Sequences" [under review]
+[1] Pramit Saha and Sidney Fels. "Your Hands Can Talk : Perceptually-Aware Mapping of Hand Gesture Trajectories to Vowel Sequences" [under review]
 
 [2] Yadong Liu\* , Pramit Saha\*, Arian Shamei, Bryan Gick and Sidney Fels. "Deep learning based continuous vowel space mapping from hand gestures", Acoustics Week in Canada 2019
 
@@ -43,13 +43,18 @@ Human speech production is one of the most complex processes within the human mo
 
 __Mapping articulatory and acoustic domain__
 
+The goal of this project is to find appropriate mappings between articulatory geometric configurations of the vocal tract and the acoustic properties of the resultant speech sound.
+
+Thousands of individuals need surgical removal of their larynx due to critical diseases every year and therefore, require an alternative form of communication to articulate speech sounds after the loss of their voice box. This project addresses the articulatory-to-acoustic mapping problem based on synthetic images (Pink Trombone), ultrasound (US) tongue images and MRI vocal tract images for the development of a silent-speech interface (SSI) that can provide them with an assistance in their daily interactions. We employed deep learning based approaches to develop MRI based speech recognition and US based speech sythesis systems. Further, in order to find a joint latent representation between the articulatory and acoustic domain for vowel sounds, we utilized a convolutional autoencoder architecture and normalizing flow-based model to allow both forward and inverse mapping between mid-sagittal vocal tract geometry (of a two degrees-of-freedom articulatory synthesizer with 1D acoustic wave model) and Mel-spectrogram representation (of the synthesized speech sounds).
+
+
 <br>***Peer-reviewed Publications:***
 
-[1] Saha, Pramit, and Sidney Fels. "Learning Joint Articulatory-Acoustic Representations with Normalizing Flows." arXiv preprint arXiv:2005.09463 (2020). [Under review in Interspeech 2020]
+[1] Pramit Saha and Sidney Fels. "Learning Joint Articulatory-Acoustic Representations with Normalizing Flows." arXiv preprint arXiv:2005.09463 (2020). [Under review in Interspeech 2020]
 
-[2] Saha, Pramit, Yadong Liu, Bryan Gick, and Sidney Fels. "Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images" [Early acceptance for publication in MICCAI 2020]
+[2] Pramit Saha, Yadong Liu, Bryan Gick, and Sidney Fels. "Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images" [Early acceptance for publication in MICCAI 2020]
 
-[3] Saha, Pramit, Praneeth Srungarapu, and Sidney Fels. "Towards Automatic Speech Identification from Vocal Tract Shape Dynamics in Real-time MRI." Proc. Interspeech 2018 (2018): 1249-1253.
+[3] Pramit Saha, Praneeth Srungarapu, and Sidney Fels. "Towards Automatic Speech Identification from Vocal Tract Shape Dynamics in Real-time MRI." Proc. Interspeech 2018 (2018): 1249-1253.
 
 
 `Apr2018 - Apr2019`
@@ -57,11 +62,11 @@ __Recognizing imagined speech__
 
 <br>***Peer-reviewed Publications:***
 
-[1] Saha, Pramit, Muhammad Abdul-Mageed, and Sidney Fels. "SPEAK YOUR MIND! Towards Imagined Speech Recognition with Hierarchical Deep Learning}}." Proc. Interspeech 2019 (2019): 141-145.
+[1] Pramit Saha, Muhammad Abdul-Mageed, and Sidney Fels. "SPEAK YOUR MIND! Towards Imagined Speech Recognition with Hierarchical Deep Learning}}." Proc. Interspeech 2019 (2019): 141-145.
 
-[2] Saha, Pramit, Sidney Fels, and Muhammad Abdul-Mageed. "Deep learning the eeg manifold for phonological categorization from active thoughts." ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019.
+[2] Pramit Saha, Sidney Fels, and Muhammad Abdul-Mageed. "Deep learning the eeg manifold for phonological categorization from active thoughts." ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019.
 
-[3] Saha, Pramit, and Sidney Fels. "Hierarchical deep feature learning for decoding imagined speech from eeg." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
+[3] Pramit Saha and Sidney Fels. "Hierarchical deep feature learning for decoding imagined speech from eeg." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
 
 
 `Jan2018 - Dec2018`
@@ -69,11 +74,11 @@ __Developing silent speech interfaces__
 
 <br>***Peer-reviewed Publications:***
 
-[1] Saha, Pramit, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. [Under review in Interspeech 2020]
+[1] Pramit Saha, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. [Under review in Interspeech 2020]
 
-[2] Saha, Pramit, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. "Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis." Canadian Acoustics 46.4 (2018): 58-59.
+[2] Pramit Saha, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. "Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis." Canadian Acoustics 46.4 (2018): 58-59.
 
-[3] Saha, Pramit, Debasish R. Mohapatra, Venkata Praneeth Srungarapu, and Sid Fels. "SOUND STREAM: Towards vocal sound synthesis via dual-handed simultaneous control of articulatory parameters." The Journal of the Acoustical Society of America 144, no. 3 (2018): 1907-1907.
+[3] Pramit Saha, Debasish R. Mohapatra, Venkata Praneeth Srungarapu, and Sidney Fels. "SOUND STREAM: Towards vocal sound synthesis via dual-handed simultaneous control of articulatory parameters." The Journal of the Acoustical Society of America 144, no. 3 (2018).
 
 
 ## Education
