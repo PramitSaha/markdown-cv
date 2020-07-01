@@ -74,7 +74,7 @@ __Developing silent speech interfaces__
 
 <br>***Peer-reviewed Publications:***
 
-[1] Pramit Saha, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. [Under review in Interspeech 2020]
+[1] Debasish Ray Mohapatra, Pramit Saha, Yadong Liu, Bryan Gick, and Sidney Fels. Extracting vocal tract areas using ultrasound for articulatory speech synthesis [Under review in Interspeech 2020]
 
 [2] Pramit Saha, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. "Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis." Canadian Acoustics 46.4 (2018): 58-59.
 
