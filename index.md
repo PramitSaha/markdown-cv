@@ -206,8 +206,11 @@ To see the complete list of my publications, please check [google scholar](https
 
 ## Media / coverage / Talk
 
-[What if you could hear new music by Satchmo? UBC researchers and speech from brain signals](https://www.youtube.com/watch?v=R5idxOkZiCk)
-[UBC Award Recipient Interview](https://www.grad.ubc.ca/campus-community/meet-our-students/saha-pramit)
+1. [What if you could hear new music by Satchmo? UBC researchers and speech from brain signals](https://www.youtube.com/watch?v=R5idxOkZiCk)
+
+2. [UBC Award Recipient Interview](https://www.grad.ubc.ca/campus-community/meet-our-students/saha-pramit)
+
+3. [UBC Language Sciences Talk: TEACHING, MAPPING, AND UNDERSTANDING THE SOUNDS OF LANGUAGE](https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks)
 
 ## Community and Volunteer Activities
 
