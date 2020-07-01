@@ -204,6 +204,10 @@ __Ministry of Human Resource Development Scholarship__ awarded for securing 27th
 
 To see the complete list of my publications, please check [google scholar](https://scholar.google.com/citations?hl=en&user=Sb7d-rsAAAAJ) 
 
+## Media / coverage / Talk
+
+[What if you could hear new music by Satchmo? UBC researchers and speech from brain signals](https://www.youtube.com/watch?v=R5idxOkZiCk)
+
 ## Community and Volunteer Activities
 
 `2018-Now`
