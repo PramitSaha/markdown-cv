@@ -24,13 +24,20 @@ Deep Learning, Bayesian Inference, Speech Motor Control, Speech Synthesis, Silen
 `Jan2019 - Now`
 __Investigating hand-to-speech motor control__
 
+The goal of this project is to investigate and develop a plausible underlying mechanism of how our human motor control system leverages the biomechanical and physical constraints as well as the auditory perceptual abilities to reduce the difficulty of the speech task.
+
+Human speech production is one of the most complex processes within the human motor repertoire, that needs a precise coordination of over 100 muscles per utterance of word. In continuous speech, the brain has to deal with the challenging task of rapid and accurate coordination of a set of redundant and interacting articulators, which requires the multi-dimensional control of multiple articulators at a dauntingly high rate. The neuro-computational bases behind such control is still not well understood. In this work, we endeavor to address this issue by investigating the effect of perceptual feedback-based regulations and spatio-temporal constraints for control of vowel sounds in a hand gesture-to-speech mapping system. As a starting point, we developed a synthesizer which can be controlled by hand movement to produce continuous vowel sounds easily and intuitively. We also investigated glove based 2D control, 1D+1D control and mouse control to understand how different control paradigms vary the effort of hand-to-speech motor control. Furthermore, we developed an information theoretic view of the aforementioned control and demonstrated how deep learning based mapping can be utilized to reduce the difficulty level of the task.
+
+
 <br>***Peer-reviewed Publications:***
 
 [1] Saha, Pramit and Sidney Fels. "Your Hands Can Talk : Perceptually-Aware Mapping of Hand Gesture Trajectories to Vowel Sequences" [under review]
 
-[2] Yadong Liu, Pramit Saha, Arian Shamei, Bryan Gick and Sidney Fels. "Deep learning based continuous vowel space mapping from hand gestures", Acoustics Week in Canada 2019
+[2] Yadong Liu*, Pramit Saha*, Arian Shamei, Bryan Gick and Sidney Fels. "Deep learning based continuous vowel space mapping from hand gestures", Acoustics Week in Canada 2019
 
-[3] Yadong Liu, Pramit Saha, Arian Shamei, Bryan Gick and Sidney Fels. "Mapping a Continuous Vowel Space to Hand Gestures." Canadian Acoustics 48.1 (2020).
+[3] Yadong Liu*, Pramit Saha*, Arian Shamei, Bryan Gick and Sidney Fels. "Mapping a Continuous Vowel Space to Hand Gestures." Canadian Acoustics 48.1 (2020).
+
+(* indicates equal contribution)
 
 `April2018 - Now`
 
@@ -76,10 +83,10 @@ __M.A.Sc (Master of Applied Science), Electrical and Computer Engineering__, Uni
 
 Supervised By: [Sidney Fels](https://www.ece.ubc.ca/faculty/sid-fels)
 
-Project: Mapping the articulatory-acoustic domain and investigating speech motor control
+Project: Mapping articulatory-to-acoustic domain and investigating speech motor control
 
 `Jul2012 - Jun2016`
-__B.E.(Bachelor of Engineering) Honours (Rank: 5 out of 110 students) in Electrical Engineering__, Jadavpur University, Kolkata, India
+__B.E.(Bachelor of Engineering) Honours (Rank: 5 out of 100 students) in Electrical Engineering__, Jadavpur University, Kolkata, India
 
 Advisor: [Amitava Chatterjee](https://sites.google.com/site/amitavachatterjee1968/)
 
@@ -90,12 +97,16 @@ Project: Three-dimensional terrain image map generation for navigation of a quad
 `Sep2017 - Now`
 __MITACS Globalink Graduate Fellow and Graduate Research Assistant, [HCT lab](https://hct.ece.ubc.ca/)__, Vancouver, Canada
 - Department of Electrical and Computer Engineering (ECE), University of British Columbia (UBC), Vancouver, Canada
-- Duties included: Research on developing controllable speech-related Human Computer Interface
+- Duties included: Research on developing controllable speech-related Human Computer Interface and Speech Motor Control
 - Supervisor: Prof. Sidney Fels
 
 `May2018 - Now`
 __Treasurer and Executive Committee Member, UBC ECE Graduate Student Association (ECEGSA)__
 - Duties included: In-charge of organizing and maintaining funds for ECE grad student events, Decision making on student welfare policies taken by ECEGSA.
+
+`Jun2020 - Now`
+__Graduate Academic Assistant, Electrical and Computer Engineering Department (ECE)__, University of British Columbia (UBC), Vancouver, Canada
+-Duties included: Preparation of academic materials for online course.
 
 `Jun2016 - Sep2016`
 __MITACS Globalink Research Intern, Faculty of Medicine and Dentistry__, Department of Radiology and Diagnostic Imaging, University of Alberta, Edmonton
@@ -129,9 +140,10 @@ Responsibilities: Preparing course materials, conducting tutorial sessions, mana
 ## Reviewing Activities
 
 - __MICCAI 2020__
+- __Abstracts for UBC Language Sciences GSPFRD 2020__
 - __MICCAI 2019__
 - __IEEE TENCON 2016__
-- __Abstracts for UBC Language Sciences GSPFRD__
+
 
 ## Computing Skills
 
@@ -143,6 +155,7 @@ Windows
 ## Awards and Recognitions
 
 `2019`
+
 __ISCA Travel Grant__ awarded by the International Speech and Communication Association (ISCA) - 650 Euro
 
 `2019`
@@ -183,11 +196,13 @@ __Ministry of Human Resource Development Scholarship__ awarded for securing 27th
 
 
 ## Publications
+
 To see the complete list of my publications, please check [google scholar](https://scholar.google.com/citations?hl=en&user=Sb7d-rsAAAAJ) 
 
 ## Community and Volunteer Activities
 
 `2018-Now`
+
 __Treasurer and Executive Committee Member__, ECE Graduate Student Association (ECEGSA), University of British Columbia
 
 As the treasurer and executive committee member of ECEGSA, I am in charge of
