@@ -112,6 +112,7 @@ __Treasurer and Executive Committee Member, UBC ECE Graduate Student Association
 `Jun2020 - Now`
 __Graduate Academic Assistant, Electrical and Computer Engineering Department (ECE)__, University of British Columbia (UBC), Vancouver, Canada
 - Duties included: Preparation of academic materials for online course.
+- Instructor: Dr. Saloome Motavas
 
 `Jun2016 - Sep2016`
 __MITACS Globalink Research Intern, Faculty of Medicine and Dentistry__, Department of Radiology and Diagnostic Imaging, University of Alberta, Edmonton
