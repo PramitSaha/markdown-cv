@@ -33,9 +33,9 @@ Human speech production is one of the most complex processes within the human mo
 
 [1] Pramit Saha and Sidney Fels. "Your Hands Can Talk : Perceptually-Aware Mapping of Hand Gesture Trajectories to Vowel Sequences" [under review]
 
-[2] Yadong Liu\* , Pramit Saha\*, Arian Shamei, Bryan Gick and Sidney Fels. "Deep learning based continuous vowel space mapping from hand gestures", Acoustics Week in Canada 2019
+[2] Yadong Liu\* , Pramit Saha\*, Arian Shamei, Bryan Gick and Sidney Fels. ["Deep learning based continuous vowel space mapping from hand gestures"](https://awc.caa-aca.ca/index.php/AWC/AWC19/paper/view/630), Acoustics Week in Canada 2019
 
-[3] Yadong Liu\*, Pramit Saha\*, Arian Shamei, Bryan Gick and Sidney Fels. "Mapping a Continuous Vowel Space to Hand Gestures." Canadian Acoustics 48.1 (2020).
+[3] Yadong Liu\*, Pramit Saha\*, Arian Shamei, Bryan Gick and Sidney Fels. ["Mapping a Continuous Vowel Space to Hand Gestures."](https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3373) Canadian Acoustics 48.1 (2020).
 
 (\* indicates equal contribution)
 
@@ -50,11 +50,11 @@ Thousands of individuals need surgical removal of their larynx due to critical d
 
 <br>***Peer-reviewed Publications:***
 
-[1] Pramit Saha and Sidney Fels. "Learning Joint Articulatory-Acoustic Representations with Normalizing Flows." arXiv preprint arXiv:2005.09463 (2020). [Under review in Interspeech 2020]
+[1] Pramit Saha and Sidney Fels. ["Learning Joint Articulatory-Acoustic Representations with Normalizing Flows."](https://arxiv.org/abs/2005.09463) arXiv preprint arXiv:2005.09463 (2020). [Under review in Interspeech 2020]
 
-[2] Pramit Saha, Yadong Liu, Bryan Gick, and Sidney Fels. "Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images" [Early acceptance for publication in MICCAI 2020]
+[2] Pramit Saha, Yadong Liu, Bryan Gick, and Sidney Fels. ["Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images"](https://arxiv.org/abs/2006.16367) [Early acceptance for publication in MICCAI 2020]
 
-[3] Pramit Saha, Praneeth Srungarapu, and Sidney Fels. "Towards Automatic Speech Identification from Vocal Tract Shape Dynamics in Real-time MRI." Proc. Interspeech 2018 (2018): 1249-1253.
+[3] Pramit Saha, Praneeth Srungarapu, and Sidney Fels. ["Towards Automatic Speech Identification from Vocal Tract Shape Dynamics in Real-time MRI."](https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2537.html) Proc. Interspeech 2018 (2018): 1249-1253.
 
 
 `Apr2018 - Apr2019`
