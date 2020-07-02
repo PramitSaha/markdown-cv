@@ -253,3 +253,8 @@ campus, reporting about unwanted incidents in the department, propose solutions 
 improving the anti-ragging policies, helping students with counselling, etc.
 
 
+## Links to other sites 
+[HCT UBC Lab Profile](http://hct.ece.ubc.ca/person/pramit-saha/)
+[UBC Language Science Profile](https://languagesciences.ubc.ca/people/student-member/pramit-saha)
+[UBC Meet our students Profile](https://www.grad.ubc.ca/campus-community/meet-our-students/saha-pramit)
+[UBC ECEGSA Treasurer Profile](http://gsa.ece.ubc.ca/contact/current-executives/)
