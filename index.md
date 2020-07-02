@@ -67,11 +67,11 @@ Speech imagery is about representing speech in terms of unspoken sounds inside t
 
 <br>***Peer-reviewed Publications:***
 
-[1] Pramit Saha, Muhammad Abdul-Mageed, and Sidney Fels. "SPEAK YOUR MIND! Towards Imagined Speech Recognition with Hierarchical Deep Learning}}." Proc. Interspeech 2019 (2019): 141-145.
+[1] Pramit Saha, Muhammad Abdul-Mageed, and Sidney Fels. ["SPEAK YOUR MIND! Towards Imagined Speech Recognition with Hierarchical Deep Learning."](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3041.pdf) Proc. Interspeech 2019 (2019): 141-145.
 
-[2] Pramit Saha, Sidney Fels, and Muhammad Abdul-Mageed. "Deep learning the eeg manifold for phonological categorization from active thoughts." ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019.
+[2] Pramit Saha, Sidney Fels, and Muhammad Abdul-Mageed. ["Deep learning the eeg manifold for phonological categorization from active thoughts."](https://ieeexplore.ieee.org/document/8682330) ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019.
 
-[3] Pramit Saha and Sidney Fels. "Hierarchical deep feature learning for decoding imagined speech from eeg." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
+[3] Pramit Saha and Sidney Fels. ["Hierarchical deep feature learning for decoding imagined speech from eeg."](https://www.aaai.org/ojs/index.php/AAAI/article/view/5146) Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
 
 
 `Jan2018 - Dec2018`
@@ -88,9 +88,9 @@ This project explores and evaluates the appropriate input and mapping methods to
 
 [1] Debasish Ray Mohapatra, Pramit Saha, Yadong Liu, Bryan Gick, and Sidney Fels. Extracting vocal tract areas using ultrasound for articulatory speech synthesis [Under review in Interspeech 2020]
 
-[2] Pramit Saha, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. "Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis." Canadian Acoustics 46.4 (2018): 58-59.
+[2] Pramit Saha, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. ["Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis."](https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3248) Canadian Acoustics 46.4 (2018): 58-59.
 
-[3] Pramit Saha, Debasish R. Mohapatra, Venkata Praneeth Srungarapu, and Sidney Fels. "SOUND STREAM: Towards vocal sound synthesis via dual-handed simultaneous control of articulatory parameters." The Journal of the Acoustical Society of America 144, no. 3 (2018).
+[3] Pramit Saha, Debasish R. Mohapatra, Venkata Praneeth Srungarapu, and Sidney Fels. ["SOUND STREAM: Towards vocal sound synthesis via dual-handed simultaneous control of articulatory parameters."](https://asa.scitation.org/doi/10.1121/1.5068362) The Journal of the Acoustical Society of America 144, no. 3 (2018).
 
 
 ## Education
