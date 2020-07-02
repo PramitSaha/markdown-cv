@@ -264,6 +264,14 @@ the other members and discuss about current ragging and disciplinary scenarios i
 campus, reporting about unwanted incidents in the department, propose solutions for
 improving the anti-ragging policies, helping students with counselling, etc.
 
+## Students mentored
+
+[Himanshu Goyal](https://www.linkedin.com/in/himanshu-g/)
+
+[Irene Wang](https://www.linkedin.com/in/irenewang05/)
+
+Bobby Smith
+
 
 ## Links to other sites 
 
