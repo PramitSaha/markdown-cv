@@ -60,6 +60,11 @@ Thousands of individuals need surgical removal of their larynx due to critical d
 `Apr2018 - Apr2019`
 __Recognizing imagined speech__
 
+The goal of the project is to detect speech tokens from speech imagery brain signals (EEG). 
+
+Speech imagery is about representing speech in terms of unspoken sounds inside the human brain that doesn’t involve overt vocalization or articulatory movements. Our project reveals the existence of some sort of brain footprint for articulatory movements underlying related speech token imagery. We build upon the idea that active thought process underlying covert speech does have some relevant features corresponding to the intended activity of different parts of the vocal tract, even though a person is not vocalizing. We further demonstrate that it is possible to detect the imagined words by understanding the intended involvement of vocal tract and vocal fold, which is internally encoded in the brain signals. Our hierarchical deep neural network architecture is able to capture some information about the signals that the brain implicitly sends to the speech articulators like tongue, vocal fold, etc even in the absence of a need for vocal communication.
+
+
 <br>***Peer-reviewed Publications:***
 
 [1] Pramit Saha, Muhammad Abdul-Mageed, and Sidney Fels. "SPEAK YOUR MIND! Towards Imagined Speech Recognition with Hierarchical Deep Learning}}." Proc. Interspeech 2019 (2019): 141-145.
@@ -70,7 +75,10 @@ __Recognizing imagined speech__
 
 
 `Jan2018 - Dec2018`
+
 __Developing silent speech interfaces__
+
+This project explores and evaluates the appropriate input and mapping methods to design a controllable silent speech synthesis engine using vocal tract or hands. It has two components: (1) Ultrasound based SSI: (2) Hand control based SSI: 
 
 <br>***Peer-reviewed Publications:***
 
