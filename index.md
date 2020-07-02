@@ -22,7 +22,7 @@ Deep Learning, Bayesian Inference, Speech Motor Control, Speech Synthesis, Silen
 
 
 `Jan2019 - Now`
-__Investigating hand-to-speech motor control__
+__1. Investigating hand-to-speech motor control__
 
 The goal of this project is to investigate and develop a plausible underlying mechanism of how our human motor control system leverages the biomechanical and physical constraints as well as the auditory perceptual abilities to reduce the difficulty of the speech task.
 
@@ -41,7 +41,7 @@ Human speech production is one of the most complex processes within the human mo
 
 `April2018 - Now`
 
-__Mapping articulatory and acoustic domain__
+__2. Mapping articulatory and acoustic domain__
 
 The goal of this project is to find appropriate mappings between articulatory geometric configurations of the vocal tract and the acoustic properties of the resultant speech sound.
 
@@ -58,7 +58,7 @@ Thousands of individuals need surgical removal of their larynx due to critical d
 
 
 `Apr2018 - Apr2019`
-__Recognizing imagined speech__
+__3. Recognizing imagined speech__
 
 The goal of the project is to detect speech tokens from speech imagery brain signals (EEG). 
 
@@ -76,9 +76,9 @@ Speech imagery is about representing speech in terms of unspoken sounds inside t
 
 `Jan2018 - Dec2018`
 
-__Developing silent speech interfaces__
+__4. Developing silent speech interfaces__
 
-This project explores and evaluates the appropriate input and mapping methods to design a controllable silent speech synthesis engine using vocal tract or hands. It has two components: 
+This project explores and evaluates the appropriate input and mapping methods to design a controllable silent speech synthesis engine using either our vocal tract or hands. It has two components: 
 
 (1) Ultrasound (US) based SSI: We take a step towards developing a controllable interface via precise extraction of the upper oral cavity from ultrasound imaging modality, thereby, enabling speakers to drive an articulatory speech synthesizer directly by their tongue movements without the necessity of vocalization. At the core of this interface is the extraction of mid-sagittal cross-sectional area functions between tongue and palate using the US, which drives a computationally affordable FDTD-based 2D acoustic wave solver for precise simulation of acoustic wave propagation. The study motivates an investigation into the possible ways of augmenting US-based area functions to generate rich VT geometrical information that can potentially lead to the development of a real-time silent-speech interface.
 
