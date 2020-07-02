@@ -275,6 +275,8 @@ Bobby Smith, Bachelor of Science (Biochemistry), UBC
 
 ## Links to other sites 
 
+[Personal Home Page](https://pramitsaha.github.io/)
+
 [HCT UBC Lab Profile](http://hct.ece.ubc.ca/person/pramit-saha/)
 
 [UBC Language Science Profile](https://languagesciences.ubc.ca/people/student-member/pramit-saha)
