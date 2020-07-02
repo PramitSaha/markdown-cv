@@ -270,7 +270,7 @@ improving the anti-ragging policies, helping students with counselling, etc.
 
 [Irene Wang](https://www.linkedin.com/in/irenewang05/), Third-year Computer Engineering student, UBC
 
-Bobby Smith, Bachelor of Science (Biochemistry), UBC
+[Bobby Smith](https://www.linkedin.com/in/robertdouglassmith/), Bachelor of Science (Biochemistry), UBC
 
 
 ## Links to other sites 
