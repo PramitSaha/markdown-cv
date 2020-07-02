@@ -266,9 +266,9 @@ improving the anti-ragging policies, helping students with counselling, etc.
 
 ## Students mentored
 
-[Himanshu Goyal](https://www.linkedin.com/in/himanshu-g/)
+[Himanshu Goyal](https://www.linkedin.com/in/himanshu-g/), Third-year Computer Science student, UBC
 
-[Irene Wang](https://www.linkedin.com/in/irenewang05/)
+[Irene Wang](https://www.linkedin.com/in/irenewang05/), Third-year Computer Engineering student, UBC
 
 Bobby Smith
 
