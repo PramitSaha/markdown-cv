@@ -78,7 +78,11 @@ Speech imagery is about representing speech in terms of unspoken sounds inside t
 
 __Developing silent speech interfaces__
 
-This project explores and evaluates the appropriate input and mapping methods to design a controllable silent speech synthesis engine using vocal tract or hands. It has two components: (1) Ultrasound based SSI: (2) Hand control based SSI: 
+This project explores and evaluates the appropriate input and mapping methods to design a controllable silent speech synthesis engine using vocal tract or hands. It has two components: 
+
+(1) Ultrasound based SSI: We take a step towards developing a controllable interface via precise extraction of the upper oral cavity from ultrasound imaging modality, thereby, enabling speakers to drive an articulatory speech synthesizer directly by their tongue movements without the necessity of vocalization. At the core of this interface is the extraction of mid-sagittal cross-sectional area functions between tongue and palate using the US, which drives a computationally affordable FDTD-based 2D acoustic wave solver for precise simulation of acoustic wave propagation. The study motivates an investigation into the possible ways of augmenting US-based area functions to generate rich VT geometrical information that might lead to the future development of a real-time silent-speech interface.
+
+(2) Hand control based SSI: We introduce Sound stream: a low-cost, tangible and ambidextrous controller which drives a dynamic muscle-based model of the human vocal tract for articulatory speech synthesis. The controller facilitates the multidimensional inputs which are mapped to the tongue muscles in a biomechanical modeling toolkit Artisynth using a microcontroller. The tongue kinematics is then mapped to a JASS based sound synthesis engine. As a demonstration, the user learns to interact and control a mid-sagittal view of the tongue structure in Artisynth through a set of sensors using both hands to synthesise continuous vocal sounds. 
 
 <br>***Peer-reviewed Publications:***
 
