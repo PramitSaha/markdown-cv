@@ -225,6 +225,8 @@ To see the complete list of my publications, please check [google scholar](https
 
 3. [UBC Language Sciences Talk: TEACHING, MAPPING, AND UNDERSTANDING THE SOUNDS OF LANGUAGE](https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks)
 
+4. [UBC ECE Graduate Student Achievement](https://www.ece.ubc.ca/news/202007/ece-student-pramit-saha-leads-imagine-speech-recognition-project)
+
 ## Community and Volunteer Activities
 
 `2018-Now`
