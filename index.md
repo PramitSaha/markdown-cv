@@ -150,7 +150,7 @@ __Teaching Assistant, University of British Columbia__, Vancouver, Canada
 Responsibilities: Preparing course materials, conducting tutorial sessions, managing student projects, lab and exam grading
 
 - APSC160 - Introduction to Computation in Engineering Design (Spring 2018, Fall 2018, Spring 2019, Fall 2019)
-- ELEC 203 - Basic Circuit Analysis (Fall 2018)
+- ELEC 203 - Basic Circuit Analysis (Fall 2018, Fall 2019)
 - ELEC 371 - Biomedical Engineering Instrumentation (Spring 2019, Spring 2020)
 - ELEC 523 - Medical Imaging (Fall 2019)
 - ELEC 341 - Systems and Control (Summer 2020)
