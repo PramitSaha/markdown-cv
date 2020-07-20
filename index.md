@@ -172,6 +172,10 @@ __OS:__
 Windows
 ## Awards and Recognitions
 
+`2020`
+
+__MICCAI 2020 Student Travel Award__ awarded by the MICCAI Society - Refunding MICCAI Registration.
+
 `2019`
 
 __ISCA Travel Grant__ awarded by the International Speech and Communication Association (ISCA) - 650 Euro
