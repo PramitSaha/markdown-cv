@@ -174,7 +174,7 @@ Windows
 
 `2020`
 
-__MICCAI 2020 Student Travel Award__ awarded by the MICCAI Society - Refunding MICCAI Registration.
+__MICCAI 2020 Student Travel Award__ awarded by the MICCAI Society - Refunding MICCAI Registration
 
 `2019`
 
