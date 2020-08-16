@@ -50,7 +50,7 @@ Thousands of individuals need surgical removal of their larynx due to critical d
 
 <br>***Peer-reviewed Publications:***
 
-[1] __Pramit Saha__ and Sidney Fels. ["Learning Joint Articulatory-Acoustic Representations with Normalizing Flows."](https://arxiv.org/abs/2005.09463) arXiv preprint arXiv:2005.09463 (2020). [Under review in Interspeech 2020]
+[1] __Pramit Saha__ and Sidney Fels. ["Learning Joint Articulatory-Acoustic Representations with Normalizing Flows."](https://arxiv.org/abs/2005.09463) arXiv preprint arXiv:2005.09463 (2020). [Accepted for publication in Interspeech 2020]
 
 [2] __Pramit Saha__, Yadong Liu, Bryan Gick, and Sidney Fels. ["Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images"](https://arxiv.org/abs/2006.16367) [Early acceptance for publication in MICCAI 2020]
 
@@ -86,7 +86,7 @@ This project explores and evaluates the appropriate input and mapping methods to
 
 <br>***Peer-reviewed Publications:***
 
-[1] Debasish Ray Mohapatra, __Pramit Saha__, Yadong Liu, Bryan Gick, and Sidney Fels. "Extracting vocal tract areas using ultrasound for articulatory speech synthesis." [Under review in Interspeech 2020]
+[1] Yadong Liu, __Pramit Saha__, and Bryan Gick. "Visual Feedback and Self-monitoring in Speech Learning via Hand Movement" [Under review in The 179th Meeting of the Acoustical Society of America, 2020]
 
 [2] __Pramit Saha__, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. ["Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis."](https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3248) Canadian Acoustics 46.4 (2018): 58-59.
 
