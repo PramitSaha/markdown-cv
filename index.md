@@ -52,7 +52,7 @@ Thousands of individuals need surgical removal of their larynx due to critical d
 
 [1] __Pramit Saha__ and Sidney Fels. ["Learning Joint Articulatory-Acoustic Representations with Normalizing Flows."](https://arxiv.org/abs/2005.09463) arXiv preprint arXiv:2005.09463 (2020). [Accepted for publication in Interspeech 2020]
 
-[2] __Pramit Saha__, Yadong Liu, Bryan Gick, and Sidney Fels. ["Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images"](https://arxiv.org/abs/2006.16367) [Early acceptance for publication in MICCAI 2020]
+[2] __Pramit Saha__, Yadong Liu, Bryan Gick, and Sidney Fels. ["Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images"](https://arxiv.org/abs/2006.16367) [Early acceptance for publication in MICCAI 2020] [CODE](https://github.com/PramitSaha/Ultra2Speech/blob/main/Ultra2speech_shuffled_architecture_MICCAI.ipynb)
 
 [3] __Pramit Saha__, Praneeth Srungarapu, and Sidney Fels. ["Towards Automatic Speech Identification from Vocal Tract Shape Dynamics in Real-time MRI."](https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2537.html) Proc. Interspeech 2018 (2018): 1249-1253.
 
