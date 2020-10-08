@@ -14,7 +14,7 @@ Graduate student, University of British Columbia, Vancouver, Canada
 
 <!--Add your research interest here and the domain that you have been working-->
 ## Research interests
-Deep Learning, Bayesian Inference, Speech Motor Control, Speech Synthesis, Silent Speech Interface, Human Computer Interface, Computer Vision.
+Deep Learning, Bayesian Inference, Medical Imaging, Computer Vision, Speech Synthesis
 
 <!--Add the ongoing or completed projects as a part of portfolio-->
 ## Selected recent projects
@@ -52,7 +52,7 @@ Thousands of individuals need surgical removal of their larynx due to critical d
 
 [1] __Pramit Saha__ and Sidney Fels. ["Learning Joint Articulatory-Acoustic Representations with Normalizing Flows."](https://arxiv.org/abs/2005.09463) arXiv preprint arXiv:2005.09463 (2020). [Accepted for publication in Interspeech 2020]
 
-[2] __Pramit Saha__, Yadong Liu, Bryan Gick, and Sidney Fels. ["Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images"](https://arxiv.org/abs/2006.16367) [Early acceptance for publication in MICCAI 2020] [ __CODES AND SAMPLES__ ](https://github.com/PramitSaha/Ultra2Speech)
+[2] __Pramit Saha__, Yadong Liu, Bryan Gick, and Sidney Fels. ["Ultra2Speech - A Deep Learning Framework for Formant Frequency Estimation and Tracking from Ultrasound Tongue Images"](https://arxiv.org/abs/2006.16367) [ __MICCAI Society Young Scientist Award 2020__] [ __CODES AND SAMPLES__ ](https://github.com/PramitSaha/Ultra2Speech)
 
 [3] __Pramit Saha__, Praneeth Srungarapu, and Sidney Fels. ["Towards Automatic Speech Identification from Vocal Tract Shape Dynamics in Real-time MRI."](https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2537.html) Proc. Interspeech 2018 (2018): 1249-1253.
 
@@ -166,15 +166,17 @@ Responsibilities: Preparing course materials, conducting tutorial sessions, mana
 ## Computing Skills
 
 __Programming Language:__
-Python (including deep learning frameworks: PyTorch, Keras, TensorFlow), MATLAB, C
+Python (including deep learning frameworks: PyTorch, Keras, TensorFlow), MATLAB, C/C++
 
-__OS:__
-Windows
 ## Awards and Recognitions
 
 `2020`
 
-__MICCAI 2020 Student Travel Award__ awarded by the MICCAI Society - Refunding MICCAI Registration
+__MICCAI 2020 Young Scientist Award__ awarded by the MICCAI Society 
+
+`2020`
+
+__MICCAI 2020 Student Travel Award__ awarded by the MICCAI Society 
 
 `2019`
 
