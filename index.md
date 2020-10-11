@@ -225,7 +225,7 @@ To see the complete list of my publications, please visit [google scholar](https
 
 ## Invited Talk
 
-[UBC Language Sciences Talk: TEACHING, MAPPING, AND UNDERSTANDING THE SOUNDS OF LANGUAGE](https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks)
+1. [UBC Language Sciences Talk: TEACHING, MAPPING, AND UNDERSTANDING THE SOUNDS OF LANGUAGE](https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks)
 
 ## Media / coverage 
 
