@@ -188,7 +188,7 @@ __AAAI Student Scholarship__ awarded by Association for Advancement of Artificia
 
 `2018-2019`
 
-__Faculty of Applied Science Graduate Award__ awarded for academic and research achievements by the Department of Electrical and Computer Engineering (ECE) of University of British Columbia (UBC) - 8,000 Canadian dollars
+__Faculty of Applied Science Graduate Award__ awarded for outstanding academic and research achievements by the Department of Electrical and Computer Engineering (ECE) of University of British Columbia (UBC) - 8,000 Canadian dollars
 
 `2017-Now`
 
@@ -223,15 +223,17 @@ __Ministry of Human Resource Development Scholarship__ awarded for securing 27th
 
 To see the complete list of my publications, please check [google scholar](https://scholar.google.com/citations?hl=en&user=Sb7d-rsAAAAJ) 
 
-## Media / coverage / Talk
+## Invited Talk
+
+1. [UBC Language Sciences Talk: TEACHING, MAPPING, AND UNDERSTANDING THE SOUNDS OF LANGUAGE](https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks)
+
+## Media / coverage 
 
 1. [What if you could hear new music by Satchmo? UBC researchers and speech from brain signals](https://www.youtube.com/watch?v=R5idxOkZiCk)
 
 2. [UBC Award Recipient Interview](https://www.grad.ubc.ca/campus-community/meet-our-students/saha-pramit)
 
-3. [UBC Language Sciences Talk: TEACHING, MAPPING, AND UNDERSTANDING THE SOUNDS OF LANGUAGE](https://languagesciences.ubc.ca/news-events/events/jun-12-2020-teaching-mapping-and-understanding-sounds-language-online-flash-talks)
-
-4. [UBC ECE Graduate Student Achievement](https://www.ece.ubc.ca/news/202007/ece-student-pramit-saha-leads-imagine-speech-recognition-project)
+3. [UBC ECE Graduate Student Achievement](https://www.ece.ubc.ca/news/202007/ece-student-pramit-saha-leads-imagine-speech-recognition-project)
 
 ## Community and Volunteer Activities
 
