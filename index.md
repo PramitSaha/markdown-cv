@@ -86,7 +86,7 @@ This project explores and evaluates the appropriate input and mapping methods to
 
 <br>***Peer-reviewed Publications:***
 
-[1] Yadong Liu, __Pramit Saha__, and Bryan Gick. "Visual Feedback and Self-monitoring in Speech Learning via Hand Movement" [Under review in The 179th Meeting of the Acoustical Society of America, 2020]
+[1] Yadong Liu, __Pramit Saha__, and Bryan Gick. "Visual Feedback and Self-monitoring in Speech Learning via Hand Movement" [The 179th Meeting of the Acoustical Society of America, 2020]
 
 [2] __Pramit Saha__, Debasish Ray Mohapatra, S. V. Praneeth, and Sidney Fels. ["Sound-Stream II: Towards Real-Time Gesture-Controlled Articulatory Sound Synthesis."](https://jcaa.caa-aca.ca/index.php/jcaa/article/view/3248) Canadian Acoustics 46.4 (2018): 58-59.
 
